@@ -1,0 +1,32 @@
+03/26/2022
+-> Discussed possible problem statements like Snake, Sudoku, Minesweeper, 2048 etc
+-> Problem statement chosen - Connect 4 game(2 player game)
+-> Tasks assigned - 1 research paper/article per person to decide algorithms to be implemented.
+
+03/29/2022
+-> Changed problem statement to Snake AI game due to better suitability
+
+03/30/2022
+-> Email professor for feedback, algorithms covered in lectures not suitable for problem statement
+
+04/02/2022
+-> Algorithms finalized based on feedback - A*, Dijkstra's, Genetic Algo, RL
+-> Environment finalized and pushed - reference - https://github.com/rajatdiptabiswas/snake-pygame/blob/master/Snake%20Game.py
+-> Coding tasks assigned
+
+04/05/2022
+->Started coding on algorithms based on environments
+
+04/06/2022
+-> Fixing of bugs based on each algorithm
+
+04/07/202
+-> Testing each algorithm
+-> Linking of environment to each algorithm and resolving bugs
+
+04/08/2022
+-> Started on report
+
+04/09/2022
+-> Finalizing report
+-> Creating presentation and demo

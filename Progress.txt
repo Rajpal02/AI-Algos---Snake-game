@@ -1,0 +1,27 @@
+03/26/2022
+-> Problem statement chosen
+-> Research tasks assigned
+
+03/29/2022
+-> Problem statement changed and approved
+
+04/02/2022
+-> Algorithms Finalized
+-> Environment Pushed
+
+04/05/2022
+-> Began coding of each algorithm based
+
+04/06/2022
+-> Bug fixing
+
+04/07/202
+-> Tested each algorithm
+-> Linking of environment to each algorithm and resolving bugs
+
+04/08/2022
+-> Writing respective parts of report
+
+04/09/2022
+-> Finalizing report
+-> Creation of presentation and demo

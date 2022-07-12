@@ -1,0 +1,29 @@
+03/26/2022
+-> Read reserach paper and articles to finalize algorithms
+-> Email requesting feedback from Professor
+
+04/02/2022
+-> Update environment code to accomodate AI
+-> Algorithm implementation
+	- Raj : A*
+	- Zoya : Dijkstra's
+	- Shriya and Shubham : Genetic
+	- RL : Sahil
+-> Report writing
+
+04/05/2022
+-> Begin coding of each algorithm based
+
+04/06/2022
+-> Bug fixing
+
+04/07/202
+-> Test each algorithm
+-> Linking of environment to each algorithm and resolving bugs
+
+04/08/2022
+-> Writing respective parts of report
+
+04/09/2022
+-> Finalizing report
+-> Creating presentation and demo
